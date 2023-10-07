@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AJ Arbuckle</h1>
-<h3 align="center">An up-and-coming Data Analyst from Boston</h3>
+<h3 align="center">A self-taught Data Analyst from Boston</h3>
 
 - 🔭 I’m currently working on **developing projects in SQL**
 
