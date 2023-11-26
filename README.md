@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm AJ Arbuckle</h1>
-<h3 align="center">A self-taught Data Analyst from Boston</h3>
+<h3 align="center">An aspiring Data Analyst from Boston</h3>
 
-- 🔭 I’m currently working on **developing projects in SQL**
+- 🔭 I’m currently working on **developing Analytics projects in Human Resources and Healthcare / Public Health**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SQL, Tableau, and Python**
 
 - 📫 How to reach me **ajarbuckle23@gmail.com**
 
